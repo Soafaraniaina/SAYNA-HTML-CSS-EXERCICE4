@@ -1,0 +1,227 @@
+body{
+    margin: 0%;
+}
+header{
+    padding: 1%;
+    height: 8vh;
+    background-color: #114C92;
+}
+header > div.leftbox{
+    float: left;
+    width: 25%;
+    margin-left: 10%;
+}
+header > nav.rightbox{
+    float: right;
+    width: 60%;
+}
+li.btn{
+    display: inline;
+    width: 5%;
+}
+li.btn a{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0% 2%;
+    float: right;
+    margin-right: 10%;
+}
+.one{
+    background-image: url('../Assets/Illustration/img19.png');
+    height: 100vh;
+    margin-top: -21px;
+    color: white;
+}
+.one h1, p{
+    margin-left: 10%;
+}
+section#bleu{
+    background-color: #114C92;
+    margin-top: -20px;
+    display: inline-block;
+}
+.two, .three{
+    display: inline-block;
+}
+.two{
+    margin-right: 2%;
+    color: white;
+    width: 38%;
+    padding: 3% 0%;
+    margin-left: 10%;
+}
+.two p{
+    margin-left: 0%;
+}
+.three{
+    width: 30%;
+    float: right;
+    margin-right: 10%;
+    padding-top: 14%;
+}
+.four{
+    background-image: url(../Assets/Illustration/img20.png);
+    color: white;
+    height: 73vh;
+    margin-top: -21px;
+}
+.four h2, p{
+    margin-left: 10%;
+}
+section#bleu2{
+    background-color: #114C92;
+    color: white;
+    margin-top: -20px;
+}
+.five, .six{
+    display: inline-block;
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+.five{
+    width: 40%;
+    float: left;
+    padding-left: 10%;
+}
+.five p{
+    margin-left: 0%;
+}
+.six{
+    width: 40%;
+    float: right;
+    margin-right: 10%;
+}
+.six p{
+    margin-right: 0%;
+}
+.seven{
+    float: left;
+    margin-left: 10%;
+    width: 45%;
+}
+.seven p{
+    margin-left: 0%;
+}
+.eight{
+    float: right;
+    width: 43%;
+    margin-top: 8%;
+}
+.eight p{
+    padding-right: 18%;
+    margin-left: 0%;
+}
+.nine{
+    float: left;
+    width: 40%;
+    margin-left: 10%;
+    margin-top: 10%;
+}
+.nine p{
+    margin-left: 0%;
+}
+.ten{
+    float: right;
+    width: 50%;
+    margin-top: 7%;
+}
+div#bleu5{
+    background: #B11313;
+    display: inline-flex;
+    flex-direction: row;
+    width: 50%;
+    margin-top: 10%;
+    padding-bottom: 20%;
+}
+.un{
+    margin-right: 0%;
+    margin-left: 15%;
+}
+.un h2{
+  margin-left: 10%;
+}
+.une{
+    width: 40%;
+    float: right;
+    margin-right: -90%;
+    margin-left: -20%;
+    margin-bottom: 1%;
+}
+.une p{
+    padding-top: 26%;
+}
+.deux{
+    float: right;
+    width: 50%;
+    margin-top: -86%;
+    
+}
+.trois{
+    background-image: url(../Assets/Illustration/img33.png);
+    margin-top: -14%;
+}
+.iny{
+    width: 30%;
+    background-color: #114C92;
+    opacity: 50%;
+    margin-left: 60%;
+}
+footer#black{
+    background-color: black;
+    color: white;
+    margin-top: -2%;
+}
+.block7{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+ul.btn2{
+    display: inline-flex;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 2% 15%;
+}
+ul.btn2 li{
+    padding: 2% 3%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li.btn0{
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+    padding-top: 5%;
+}
+ul.btn1{
+    display: inline-flex;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 2% 35%;
+}
+ul.btn1 li{
+    padding: 2%;
+    float: right;
+}
+.eto{
+    width: 40%;
+}
+.ery{
+    width: 40%;
+    float: right;
+}
+.any{
+    width: 20%;
+}
+ul li.btn3{
+    display: inline-flex;
+    flex-direction: row;
+    list-style-type: none;
+    background-color: #B11313;
+    border-radius: 100px;
+    padding: 1%;
+}

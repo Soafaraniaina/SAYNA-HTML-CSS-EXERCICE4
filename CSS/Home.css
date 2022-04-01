@@ -1,0 +1,142 @@
+body{
+    margin: 0%;
+}
+header{
+    padding: 1%;
+    height: 8vh;
+    background-color: #B11313;
+}
+header > div.leftbox{
+    float: left;
+    width: 25%;
+    margin-left: 10%;
+}
+header > nav.rightbox{
+    float: right;
+    width: 60%;
+}
+li.btn{
+    display: inline;
+    width: 5%;
+}
+li.btn a{
+    color: white;
+    list-style-type: none;
+    text-decoration: none;
+    padding: 10px;
+    margin: 0% 2%;
+    float: right;
+    margin-right: 10%;
+}
+section#one{
+    background-image: url(../Assets/Illustration/img1.png);
+    color: white;
+    margin-top: -2%;
+
+}
+.un{
+    width: 50%;
+}
+.un h1,h2, p, button{
+    padding-left: 15%;
+}
+.une{
+    background-color: #B11313;
+    height: 100vh;
+    margin-top: 50%;
+}
+section#boite{
+    background-color: #B11313;
+    margin-top: -3%;
+}
+section#boite .deux{
+    display: inline-block;
+    margin-bottom: 8%;
+}
+.deux{
+        width: 15%;
+        font-size: 12px;
+}
+section#two{
+    background-color: #114C92;
+    margin-bottom: 2%;
+}
+.trois{
+    float: right;
+    width: 50%;
+    margin-top: -32%;
+}
+.zay{
+    text-align: center;
+}
+section#three{
+    background-color: #B11313;
+    margin-top: -27px;
+}
+.yes, .izy{
+    background: #B11313;
+}
+.yes{
+    float: left;
+    width: 45%;
+}
+.izy{
+    float: right;
+    width: 55%;
+}
+footer#black{
+    background-color: black;
+    color: white;
+}
+.block7{
+    width: 100%;
+    display: flex;
+    flex-direction: row;
+}
+ul.btn2{
+    display: inline-flex;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 2% 15%;
+}
+ul.btn2 li{
+    padding: 2% 3%;
+}
+a{
+    text-decoration: none;
+    color: white;
+}
+li.btn0{
+    display: inline;
+    text-decoration: none;
+    list-style-type: none;
+    padding-top: 5%;
+}
+ul.btn1{
+    display: inline-flex;
+    text-decoration: none;
+    list-style-type: none;
+    padding: 2% 35%;
+}
+ul.btn1 li{
+    padding: 2%;
+    float: right;
+}
+.eto{
+    width: 40%;
+}
+.ery{
+    width: 40%;
+    float: right;
+}
+.any{
+    width: 20%;
+}
+ul li.btn3{
+    display: inline-flex;
+    flex-direction: row;
+    list-style-type: none;
+    background-color: #B11313;
+    border-radius: 100px;
+    padding: 1%;
+}
